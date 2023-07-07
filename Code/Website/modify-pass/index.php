@@ -269,7 +269,6 @@
                             $row = mysqli_fetch_array($result);
 
                             $db_password = $row['password'];
-                            echo $db_password;
                             if($old_password == $db_password)
 
                             {

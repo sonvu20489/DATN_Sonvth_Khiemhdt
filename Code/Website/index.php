@@ -171,7 +171,7 @@
                 </div>
 
                 <div class="card-content">
-                    <img src="./C-File/AnhHETHONG.jpg" alt="Ảnh chụp hệ thống">
+                    <img src="./C-File/AnhHETHONG.jpg" alt="Ảnh chụp hệ thống" width="100%">
                     <p>Hệ thống mô phỏng cách thức hoạt động của khóa khi được gắn cho căn hộ.</p>
                     <p>Sử dụng các thiết bị tương ứng hoặc gần tương ứng với thực tế</p>
                     <p>Được thiết kế để dễ dàng sử dụng đối với người dùng</p>

@@ -130,7 +130,7 @@
 
             <li><a href="./"><i class="fas fa-sync"></i></a></li>
 
-            <li><a href="/api/<?php echo $substr_sercode?>"><i class="fas fa-images"></i></a></li>
+            <li><a href="/api/>"><i class="fas fa-images"></i></a></li>
 
             <li><a href="http://khoacuaonline.000webhostapp.com/video_stream/"><i class="fas fa-video"></i></a></li>
 

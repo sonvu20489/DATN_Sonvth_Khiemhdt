@@ -148,7 +148,7 @@
                     <img src="/C-File/Config-wifi.jpg" height="380" width="214" alt="Cài đặt WiFi kết nối">
                     <img src="/C-File/setting-email rx.jpg" height="380" width="214" alt="Cài đặt email nhận cảnh báo">
                     <p><b>Bước 5:</b> Thực hiện đăng ký tài khoản để giám sát hệ thống trên WEB. </p>
-                    <p><b>Bước 6:</b> Nhập mật khẩu admin được dán trên hệ thống để truy cập vào menu ủy quyền để đổi mật khẩu mặc định (mật khẩu mở cửa), thêm vân tay, RFID,…</p>
+                    <p><b>Bước 6:</b> Nhập mật khẩu admin: “12345678” để truy cập vào menu ủy quyền để đổi mật khẩu mặc định “123456” (mật khẩu mở cửa), thêm vân tay, RFID,…</p>
                     <p><b>Bước 7:</b> Khi thêm các mật khẩu xong ta có thể dùng các mật khẩu để mở cửa</p>
                     <h3>2. Thao tác trên WEBSITE</h3>
                     <p><b>Bước 1:</b> Quét mã QR được dán trên thiết bị để lấy mã thiết bị đăng ký tài khoản.</p>
